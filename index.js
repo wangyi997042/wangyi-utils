@@ -1,8 +1,7 @@
 
-const isNull = (val) => {
-  return val
+const isNull = () => {
+  return 12
 }
-
-export {
+module.exports = {
   isNull
 }
