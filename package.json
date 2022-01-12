@@ -1,8 +1,8 @@
 {
   "name": "wangyi-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
-  "main": "./index.js",
+  "main": "index.js",
   "keywords": [
     "utils"
   ],
