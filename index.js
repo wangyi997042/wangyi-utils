@@ -1,8 +1,8 @@
 
-export const isNull = (val) => {
+const isNull = (val) => {
   return val
 }
 
-export default {
+export {
   isNull
 }
