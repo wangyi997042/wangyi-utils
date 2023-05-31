@@ -1,6 +1,6 @@
 
 const isNull = () => {
-  return 12
+  return 122
 }
 module.exports = {
   isNull
